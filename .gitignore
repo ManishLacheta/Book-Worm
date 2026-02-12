@@ -5,3 +5,13 @@ obj/
 *.suo
 *.cache
 appsettings.json
+
+# React
+frontend/node_modules/
+
+# Spring Boot
+backend/target/
+
+# Environment files
+.env
+application.properties
